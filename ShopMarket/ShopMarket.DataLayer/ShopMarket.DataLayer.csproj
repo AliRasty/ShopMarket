@@ -6,7 +6,8 @@
 
   <ItemGroup>
     <Folder Include="Entities\Common\" />
-    <Folder Include="Repository\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Repository\Infrastructure\" />
   </ItemGroup>
 
   <ItemGroup>

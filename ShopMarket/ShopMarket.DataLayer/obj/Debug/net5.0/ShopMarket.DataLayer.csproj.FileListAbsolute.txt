@@ -1,0 +1,15 @@
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\bin\Debug\net5.0\ShopMarket.DataLayer.deps.json
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\bin\Debug\net5.0\ShopMarket.DataLayer.runtimeconfig.json
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\bin\Debug\net5.0\ShopMarket.DataLayer.runtimeconfig.dev.json
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\bin\Debug\net5.0\ShopMarket.DataLayer.dll
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\bin\Debug\net5.0\ShopMarket.DataLayer.pdb
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.csproj.AssemblyReference.cache
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.AssemblyInfoInputs.cache
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.AssemblyInfo.cs
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.csproj.CoreCompileInputs.cache
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.dll
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\refint\ShopMarket.DataLayer.dll
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.pdb
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ShopMarket.DataLayer.genruntimeconfig.cache
+E:\C#\0-Projects\ShopMarket\ShopMarket\ShopMarket.DataLayer\obj\Debug\net5.0\ref\ShopMarket.DataLayer.dll

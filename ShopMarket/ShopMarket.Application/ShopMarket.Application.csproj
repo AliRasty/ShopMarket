@@ -4,4 +4,13 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Service\Implementation\" />
+    <Folder Include="Service\Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopMarket.DataLayer\ShopMarket.DataLayer.csproj" />
+  </ItemGroup>
+
 </Project>

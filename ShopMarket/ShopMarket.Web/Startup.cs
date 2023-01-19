@@ -8,6 +8,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using ShopMarket.Application.Service.Implementation;
+using ShopMarket.Application.Service.Interfaces;
+using ShopMarket.DataLayer.Context;
+using ShopMarket.DataLayer.Repository;
+using ShopMarket.DataLayer.Repository.Infrastructure;
 
 namespace ShopMarket.Web
 {
@@ -24,6 +30,15 @@ namespace ShopMarket.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
+
+            services.AddScoped<IUserService, UserService>();
+
+
+
+            services.AddDbContext<ApplicationDbContext>(options => 
+            options.UseSqlServer(Configuration.GetConnectionString("ShopMarketDbString")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
